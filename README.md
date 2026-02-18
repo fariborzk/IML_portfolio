@@ -68,9 +68,9 @@ The course covers fundamental machine learning methods, including:
 
 ```text
 .
-├── HW1/                 # Supervised Learning
-├── HW2/                 # SVM & Neural Networks
-├── HW3/                 # Optimization & Validation
-├── HW4/                 # Unsupervised Learning
+├── CHW1/                 # Supervised Learning
+├── CHW2/                 # SVM & Neural Networks
+├── CHW3/                 # Optimization & Validation
+├── CHW4/                 # Unsupervised Learning
 ├── Project/            # Final project
 └── README.md
